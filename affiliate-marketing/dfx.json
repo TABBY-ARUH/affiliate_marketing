@@ -1,0 +1,11 @@
+{
+    "canisters": {
+      "affiliate_marketing": {
+        "main": "src/affiliate_marketing/main.ts",
+        "type": "custom",
+        "wasm": "dist/affiliate_marketing/affiliate_marketing.wasm",
+        "candid": "src/affiliate_marketing/affiliate_marketing.did"
+      }
+    }
+  }
+  

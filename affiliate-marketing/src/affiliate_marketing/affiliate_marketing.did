@@ -1,0 +1,6 @@
+service : {
+    // Define your service methods here
+    greet: (text: text) -> (text);
+
+    // Add more service methods as needed
+};

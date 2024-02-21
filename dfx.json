@@ -1,0 +1,16 @@
+{
+    "canisters": {
+      "affiliate-marketing-kenya": {
+        "main": "src/affiliate_marketing/main.ts",
+        "type": "custom",
+        "wasm": "dist/affiliate_marketing-kenya/affiliate_marketing.wasm",
+        "candid": "src/affiliate_marketing/affiliate_marketing.did"
+      }
+    }
+  }
+  
+  
+  
+  
+ 
+  
